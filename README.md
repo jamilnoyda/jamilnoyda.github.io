@@ -3,4 +3,5 @@
 
 
 Jamil Noyda - Personal Website
-https://jamilnoyda.github.io/
+
+https://jamilnoyda.hashnode.dev
